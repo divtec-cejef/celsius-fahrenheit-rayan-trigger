@@ -2,7 +2,7 @@
  * Fichier de base pour application web HTML/CSS/JS
  * @author  Rayan Rondez
  * @version 0.1
- * @since   2019-08-19
+ * @since   2022-08-23
  */
 
 (function main() {
